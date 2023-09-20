@@ -1,0 +1,7 @@
+**/.idea/
+**/.DS_Store
+**/__pycatche__
+__pycache__/
+*.so
+*.egg-info/
+*.egg
